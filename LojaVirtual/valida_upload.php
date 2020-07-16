@@ -1,6 +1,6 @@
 <?php
   include("conexao.php");
-  include("cadproduto.php");
+  include("cadastroprod.php");
   
   $msg = false;
 

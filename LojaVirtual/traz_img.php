@@ -1,6 +1,6 @@
 <?php   include 'conexao.php';   
 
-$buscaDadosProduto = mysqli_query($conexao, "SELECT titulo, editora, valor, descricao data FROM produto");  
+$buscaDadosProduto = mysqli_query($conexao, "SELECT titulo,  valor, descricao data FROM produto");  
 
  while($dadosProduto = mysqli_fetch_object($buscaDadosProduto)): 
 

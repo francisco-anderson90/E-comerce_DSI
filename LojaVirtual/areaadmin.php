@@ -19,7 +19,7 @@ include('conexao.php');
                         <div class="card">
                             <div class="card-body">
                                 <a class="btn btn-dark d-none d-sm-block" href="cadfunc.php" role="button" >CADASTRAR FUNCIONÁRIO</a>
-                                <a class="btn btn-dark d-none d-sm-block" href="cadproduto.php" role="button" style="margin-top:30px">CADASTRAR PRODUTO</a>
+                                <a class="btn btn-dark d-none d-sm-block" href="cadastroprod.php" role="button" style="margin-top:30px">CADASTRAR PRODUTO</a>
                             </div>
                         </div>
             </div>

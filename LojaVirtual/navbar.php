@@ -5,7 +5,7 @@
             <button class="navbar-toggler bg-secondary" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <a class="navbar-brand" href="index.php"><img src=""></a>
+            <a class="navbar-brand" href="index.php"><img src="img/logotipo"></a>
             <form class="form-inline" action="/action_page.php">
                 <input class="form-control mr-sm-3" type="text" placeholder="Search">
                 <button class="btn btn-success" type="submit">Search</button>

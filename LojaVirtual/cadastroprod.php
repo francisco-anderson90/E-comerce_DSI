@@ -29,16 +29,13 @@
                         <label for="titulo">Título: </label>
                         <input type="text" class="cadprod" name="titulo" id="titulo" aria-describedby="Título" placeholder="Digite o Título">
                     </div>
-                    <div class="form-group">
-                        <label for="editora">Editora: </label>
-                        <input type="text" class="cadprod" name="editora" id="editora" placeholder="Digite a Editora">
-                    </div>
+                    
                     <div class="form-group">
                         <label for="preco">Valor: </label>
                         <input type="text" class="cadprod" name="preco" id="preco" placeholder="Valor">
                     </div>
                     <div class="form-group">
-                        <label for="exampleFormControlTextarea1">Descrição do Livro</label>
+                        <label for="exampleFormControlTextarea1">Descrição do Jogo</label>
                         <textarea class="form-control" name="descricao" id="descricao" rows="3"></textarea>
                     </div>
                     <button type="submit" class="btn btn-primary">Enviar</button>
